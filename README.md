@@ -4,48 +4,37 @@
 
 ![Zellular Logo](./Images/Zellular.png)
 
-Welcome to **Zellular-ZApps**, a collection of decentralized applications (dApps) built using [Zellular](https://docs.zellular.xyz), a decentralized sequencer designed for high-throughput, fault-tolerant consensus and messaging.
+Welcome to **Zellular-ZApps**, a collection of decentralized applications (dApps) built using [Zellular](https://docs.zellular.xyz), a decentralized sequencer designed to provide high-throughput, fault-tolerant consensus and messaging.
 
-## About
-
-This repository contains examples and templates to help developers integrate Zellular into their projects. Whether you're building token systems, decentralized exchanges, or other blockchain-based solutions, these examples will guide you through using Zellular for decentralized sequencing and consensus.
 
 ## Projects
 
-This repo contains smart contract examples demonstrating how to implement essential Ethereum standards and features using Zellular.
+This repository includes two s examples demonstrating the implementation  using Zellular:
 
-### 1. **Fungible Token Standard**
+1. **Fungible Token Standard**
+   - Implementation of an ERC-20 token with decentralized sequencing.
 
-### 2. **Non-Fungible Token (NFT) Standard**
-
-### 3. **Multi-Token Standard**
-
-### 4. **Staking Contract**
-
-### 5. **Liquidity Pool Contract**
-
-### 6. **Decentralized Exchange (DEX)**
-
-### 7. **Cross-Chain Bridge**
-
-### 8. **More Projects Coming Soon**
+2. **Decentralized Downtime Monitoring System**
+   - A monitoring system to track and report downtime events in a decentralized manner.
 
 
 ## Getting Started
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ihedbit/Zellular-DApps.git
+   git clone git@github.com:ihedbit/ZApp.git
    cd Zellular-DApps
    ```
 
 2. **Install dependencies**:
-   Each project comes with its own set of instructions, found within the respective folder.
+   Each project includes specific setup instructions within its respective folder.
 
 3. **Run the example**:
-   Follow the project-specific instructions to deploy the smart contract on a local blockchain environment (such as Ganache) or on a testnet like Rinkeby.
+   Follow the provided instructions to deploy the smart contracts on a local blockchain environment (such as Ganache) or a testnet.
 
 ## Learn More
 
-For more information about Zellular, visit the official [Zellular documentation](https://docs.zellular.xyz). More smart contracts and dApp examples are coming soon, so stay tuned for future updates!
+For more information about Zellular, visit the official [Zellular documentation](https://docs.zellular.xyz). While this repository is now archived, it remains available for reference and educational purposes.
+
+Thank you for exploring ZApps!
 
